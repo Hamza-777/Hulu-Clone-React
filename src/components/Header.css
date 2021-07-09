@@ -5,6 +5,7 @@
     align-items: center;
     justify-content: space-between;
     overflow-x: scroll;
+    height: 60px;
 }
 
 .header::-webkit-scrollbar {
@@ -17,7 +18,7 @@
 }
 
 .header__icon > .MuiSvgIcon-root {
-    font-size: 30px;
+    font-size: 25px;
     margin: 0 auto;
 }
 
@@ -52,5 +53,5 @@
 
 .header > img {
     object-fit: contain;
-    height: 80px;
+    height: 70px;
 }
